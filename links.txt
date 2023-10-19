@@ -1,0 +1,5 @@
+/google https://google.com 301
+/bing https://bing.com 301
+/cloud https://cloud.ethanmedia.co 301
+/cloud/cdn https://cloud.ethanmedia.co/cdn 301
+
